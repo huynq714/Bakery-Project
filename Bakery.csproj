@@ -118,22 +118,22 @@
     <Compile Include="DashBoard\General.Designer.cs">
       <DependentUpon>General.cs</DependentUpon>
     </Compile>
-    <Compile Include="frmGift.cs">
+    <Compile Include="View\frmGift.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="frmGift.Designer.cs">
+    <Compile Include="View\frmGift.Designer.cs">
       <DependentUpon>frmGift.cs</DependentUpon>
     </Compile>
-    <Compile Include="frmInvoiceInfo.cs">
+    <Compile Include="View\frmInvoiceInfo.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="frmInvoiceInfo.Designer.cs">
+    <Compile Include="View\frmInvoiceInfo.Designer.cs">
       <DependentUpon>frmInvoiceInfo.cs</DependentUpon>
     </Compile>
-    <Compile Include="frmOverview.cs">
+    <Compile Include="View\frmOverview.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="frmOverview.Designer.cs">
+    <Compile Include="View\frmOverview.Designer.cs">
       <DependentUpon>frmOverview.cs</DependentUpon>
     </Compile>
     <Compile Include="DashBoard\TotalInvoice.cs">
@@ -155,40 +155,40 @@
     <Compile Include="DTO\Manage.cs" />
     <Compile Include="DTO\People.cs" />
     <Compile Include="DTO\Products.cs" />
-    <Compile Include="frmAdmin.cs">
+    <Compile Include="View\frmAdmin.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="frmAdmin.Designer.cs">
+    <Compile Include="View\frmAdmin.Designer.cs">
       <DependentUpon>frmAdmin.cs</DependentUpon>
     </Compile>
-    <Compile Include="frmCheckout.cs">
+    <Compile Include="View\frmCheckout.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="frmCheckout.Designer.cs">
+    <Compile Include="View\frmCheckout.Designer.cs">
       <DependentUpon>frmCheckout.cs</DependentUpon>
     </Compile>
-    <Compile Include="frmLogin.cs">
+    <Compile Include="View\frmLogin.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="frmLogin.Designer.cs">
+    <Compile Include="View\frmLogin.Designer.cs">
       <DependentUpon>frmLogin.cs</DependentUpon>
     </Compile>
-    <Compile Include="frmManage.cs">
+    <Compile Include="View\frmManage.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="frmManage.Designer.cs">
+    <Compile Include="View\frmManage.Designer.cs">
       <DependentUpon>frmManage.cs</DependentUpon>
     </Compile>
-    <Compile Include="frmManager.cs">
+    <Compile Include="View\frmManager.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="frmManager.Designer.cs">
+    <Compile Include="View\frmManager.Designer.cs">
       <DependentUpon>frmManager.cs</DependentUpon>
     </Compile>
-    <Compile Include="frmOrders.cs">
+    <Compile Include="View\frmOrders.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="frmOrders.Designer.cs">
+    <Compile Include="View\frmOrders.Designer.cs">
       <DependentUpon>frmOrders.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
@@ -205,34 +205,34 @@
     <EmbeddedResource Include="DashBoard\TotalInvoice.resx">
       <DependentUpon>TotalInvoice.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="frmGift.resx">
+    <EmbeddedResource Include="View\frmGift.resx">
       <DependentUpon>frmGift.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="frmInvoiceInfo.resx">
+    <EmbeddedResource Include="View\frmInvoiceInfo.resx">
       <DependentUpon>frmInvoiceInfo.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="frmOverview.resx">
+    <EmbeddedResource Include="View\frmOverview.resx">
       <DependentUpon>frmOverview.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="DashBoard\SoldProducts.resx">
       <DependentUpon>SoldProducts.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="frmAdmin.resx">
+    <EmbeddedResource Include="View\frmAdmin.resx">
       <DependentUpon>frmAdmin.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="frmCheckout.resx">
+    <EmbeddedResource Include="View\frmCheckout.resx">
       <DependentUpon>frmCheckout.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="frmLogin.resx">
+    <EmbeddedResource Include="View\frmLogin.resx">
       <DependentUpon>frmLogin.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="frmManage.resx">
+    <EmbeddedResource Include="View\frmManage.resx">
       <DependentUpon>frmManage.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="frmManager.resx">
+    <EmbeddedResource Include="View\frmManager.resx">
       <DependentUpon>frmManager.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="frmOrders.resx">
+    <EmbeddedResource Include="View\frmOrders.resx">
       <DependentUpon>frmOrders.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
