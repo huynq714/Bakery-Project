@@ -1,0 +1,18 @@
+============ INVOICE ===========
+Invoice ID: HD3
+Customer Name: Trần Thị Dung
+Phone Number: 094118706
+Current Points: 42
+Payment Method: Cash
+Order Time: 3/20/2025 8:32:02 AM
+--------------------------------
+Product Name        Count        Price           Amount
+------------
+Matcha Misu         3           45000          135000
+Choco Mint          1           50000          50000
+Beary Vanilla       3           60000          180000
+----------------------------------------------
+TOTAL AMOUNT:      365.000
+DISCOUNT:          0
+TOTAL:             365.000
+==============================================

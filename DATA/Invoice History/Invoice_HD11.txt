@@ -1,0 +1,18 @@
+============ INVOICE ===========
+Invoice ID: HD11
+Customer Name: Nguyễn Đông
+Phone Number: 0705575549
+Current Points: 10
+Payment Method: Cash
+Order Time: 4/17/2025 9:56:37 PM
+--------------------------------
+Product Name        Count        Price           Amount
+------------
+Croissant            1          30000           30000
+Cookie               1          25000           25000
+Melon Mousse         1          48000           48000
+----------------------------------------------
+TOTAL AMOUNT:      103.000
+DISCOUNT:          0
+TOTAL:             103.000
+==============================================

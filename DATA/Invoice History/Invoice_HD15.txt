@@ -1,0 +1,16 @@
+============ INVOICE ===========
+Invoice ID: HD15
+Customer Name: Nguyễn Đông
+Phone Number: 0705575549
+Current Points: 15
+Payment Method: Cash
+Order Time: 4/17/2025 10:00:20 PM
+--------------------------------
+Product Name        Count        Price           Amount
+------------
+Lemon Tart           2          27000           54000
+----------------------------------------------
+TOTAL AMOUNT:      54.000
+DISCOUNT:          0
+TOTAL:             54.000
+==============================================

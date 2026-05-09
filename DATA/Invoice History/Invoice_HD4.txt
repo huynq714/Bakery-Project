@@ -1,0 +1,17 @@
+============ INVOICE ===========
+Invoice ID: HD4
+Customer Name: Nguyễn Hoài
+Phone Number: 0123456
+Current Points: 8
+Payment Method: Cash
+Order Time: 4/15/2025 12:02:48 AM
+--------------------------------
+Product Name        Count        Price           Amount
+------------
+Croissant            1          30000           30000
+Donut                2          25000           50000
+----------------------------------------------
+TOTAL AMOUNT:      80.000
+DISCOUNT:          0
+TOTAL:             80.000
+==============================================

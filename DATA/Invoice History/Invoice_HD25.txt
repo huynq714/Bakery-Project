@@ -1,0 +1,17 @@
+=========== A+ BAKERY ===========
+Invoice ID: HD25
+Customer Name: Lê Thanh Thảo
+Phone Number: 0123
+Current Points: 15
+Payment Method: Cash
+Order Time: 6/7/2025 8:22:46 PM
+--------------------------------
+Product Name        Count        Price           Amount
+------------
+Cheese Cake          1          45000           45000
+Lemon Tart           1          27000           27000
+----------------------------------------------
+TOTAL AMOUNT:      72.000
+DISCOUNT:          0
+TOTAL:             72.000
+==============================================

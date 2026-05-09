@@ -1,0 +1,17 @@
+============ INVOICE ===========
+Invoice ID: HD8
+Customer Name: Trần Quỳnh 
+Phone Number: 014789
+Current Points: 22
+Payment Method: Cash
+Order Time: 4/16/2025 10:28:31 PM
+--------------------------------
+Product Name        Count        Price           Amount
+------------
+Croissant            1          30000           30000
+Mixed Set            1          125000         125000
+----------------------------------------------
+TOTAL AMOUNT:      155.000
+DISCOUNT:          0
+TOTAL:             155.000
+==============================================

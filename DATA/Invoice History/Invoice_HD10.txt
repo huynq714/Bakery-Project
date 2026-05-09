@@ -1,0 +1,17 @@
+============ INVOICE ===========
+Invoice ID: HD10
+Customer Name: Trần Quỳnh
+Phone Number: 014789
+Current Points: 13
+Payment Method: QR Code
+Order Time: 4/17/2025 3:00:50 PM
+--------------------------------
+Product Name        Count        Price           Amount
+------------
+Choco Mint           1          50000           50000
+Brioche              1          65000           65000
+----------------------------------------------
+TOTAL AMOUNT:      115.000
+DISCOUNT:          0
+TOTAL:             115.000
+==============================================

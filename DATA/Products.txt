@@ -1,0 +1,19 @@
+SC-CK01,Cheese Cake,45000,38,7,D:\BAKERY\Photo\Cheesecake.jpg
+SC-CR01,Croissant,30000,26,13,D:\BAKERY\Photo\Croissant.png
+SC-LM01,Lemon Tart,27000,43,7,D:\BAKERY\Photo\Lemontart.jpg
+SC-ET01,Egg Tart,25000,45,0,D:\BAKERY\Photo\Eggtart.jpg
+SC-DN01,Donut,25000,22,5,D:\BAKERY\Photo\Donut.png
+M-MC01,Mousse Choco,42000,46,3,D:\BAKERY\Photo\Mousse Chocolate.jpg
+TS-TR01,Tiramisu,55000,27,3,D:\BAKERY\Photo\Tiramisu.jpg
+SC-CK02,Cookie,25000,32,6,D:\BAKERY\Photo\Cookies.jpg
+SC-PC01,Panna Cotta,32000,29,1,D:\BAKERY\Photo\Pannacotta.png
+SC-BV01,Beary Vanilla,60000,24,1,D:\BAKERY\Photo\Beary Vanilla.png
+SC-BB01,Blue Berry,65000,20,1,D:\BAKERY\Photo\Blue berry.jpg
+SC-BC01,Banana Cake,48000,14,1,D:\BAKERY\Photo\Banana Cake.png
+M-MM01,Melon Mousse,48000,24,1,D:\BAKERY\Photo\Mousse Dưa lưới.jpg
+SC-CM01,Choco Mint,50000,14,1,D:\BAKERY\Photo\Choco Mint.jpg
+M-MM02,Mango Mousse,48000,19,1,D:\BAKERY\Photo\Mousse Xoài.jpg
+TS-MM03,Matcha Misu,45000,26,1,D:\BAKERY\Photo\MatchaMisu.jpg
+SC-BR01,Brioche,65000,12,3,D:\BAKERY\Photo\Brioche.png
+Set-MS01,Mixed Set,125000,3,2,D:\BAKERY\Photo\Mixed set.png
+M-LM01,Longan Mousse,43000,36,0,D:\BAKERY\Photo\Mousse Nhãn.jpg

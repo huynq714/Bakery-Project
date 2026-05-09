@@ -1,0 +1,17 @@
+=========== A+ BAKERY ===========
+Invoice ID: HD23
+Customer Name: Hoàng An
+Phone Number: 0147
+Current Points: 8
+Payment Method: Cash
+Order Time: 5/30/2025 4:58:55 PM
+--------------------------------
+Product Name        Count        Price           Amount
+------------
+Croissant            2          30000           60000
+Lemon Tart           1          27000           27000
+----------------------------------------------
+TOTAL AMOUNT:      87.000
+DISCOUNT:          0
+TOTAL:             87.000
+==============================================

@@ -1,0 +1,17 @@
+============ INVOICE ===========
+Invoice ID: HD12
+Customer Name: Trần Văn An
+Phone Number: 0355245379
+Current Points: 12
+Payment Method: QR Code
+Order Time: 4/17/2025 9:57:09 PM
+--------------------------------
+Product Name        Count        Price           Amount
+------------
+Croissant            2          30000           60000
+Beary Vanilla        1          60000           60000
+----------------------------------------------
+TOTAL AMOUNT:      120.000
+DISCOUNT:          0
+TOTAL:             120.000
+==============================================

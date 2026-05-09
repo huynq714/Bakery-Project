@@ -1,0 +1,4 @@
+NV1,Trần Thị Quỳnh,0886253271,193 NLB,2004-11-07,Manager
+NV2,Nguyễn Phương Đông,0355485786,54 NLB,2004-01-29,Secutiry Guard 
+NV3,Nguyễn Quang Huy,0787254367,193 NLB,2004-07-01,Baker
+NV4,Nguyễn Trương Quốc Huân,0985567329,54 NLB,2000-11-11,Shop assistant

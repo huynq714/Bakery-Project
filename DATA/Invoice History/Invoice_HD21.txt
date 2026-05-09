@@ -1,0 +1,17 @@
+=========== A+ BAKERY ===========
+Invoice ID: HD21
+Customer Name: Lê Thanh Thảo
+Phone Number: 0123
+Current Points: 8
+Payment Method: Cash
+Order Time: 5/16/2025 11:02:48 AM
+--------------------------------
+Product Name        Count        Price           Amount
+------------
+Donut                2          25000           50000
+Croissant            1          30000           30000
+----------------------------------------------
+TOTAL AMOUNT:      80.000
+DISCOUNT:          0
+TOTAL:             80.000
+==============================================

@@ -1,0 +1,16 @@
+============ INVOICE ===========
+Invoice ID: HD13
+Customer Name: Trần Thị Dung
+Phone Number: 094118706
+Current Points: 15
+Payment Method: Gift
+Order Time: 4/17/2025 9:58:35 PM
+--------------------------------
+Product Name        Count        Price           Amount
+------------
+Croissant            1          0                   0
+----------------------------------------------
+TOTAL AMOUNT:      0
+DISCOUNT:          0
+TOTAL:             0
+==============================================

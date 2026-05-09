@@ -1,0 +1,17 @@
+============ INVOICE ===========
+Invoice ID: HD1
+Customer Name: Trần Thị Dung
+Phone Number: 094118706
+Current Points: 35
+Payment Method: Credit Card
+Order Time: 3/18/2025 5:19:25 PM
+--------------------------------
+Product Name        Count        Price           Amount
+------------
+Mixed Set           2           125000         250000
+Choco Mint          2           50000          100000
+----------------------------------------------
+TOTAL AMOUNT:      350.000
+DISCOUNT:          0
+TOTAL:             350.000
+==============================================

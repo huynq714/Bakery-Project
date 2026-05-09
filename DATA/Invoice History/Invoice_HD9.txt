@@ -1,0 +1,16 @@
+============ INVOICE ===========
+Invoice ID: HD9
+Customer Name: Trần Quỳnh
+Phone Number: 014789
+Current Points: 2
+Payment Method: Gift
+Order Time: 4/17/2025 3:00:19 PM
+--------------------------------
+Product Name        Count        Price           Amount
+------------
+Cheese Cake          1          0                   0
+----------------------------------------------
+TOTAL AMOUNT:      0
+DISCOUNT:          0
+TOTAL:             0
+==============================================

@@ -1,0 +1,17 @@
+============ INVOICE ===========
+Invoice ID: HD14
+Customer Name: Trần Quỳnh
+Phone Number: 014789
+Current Points: 31
+Payment Method: Cash
+Order Time: 4/17/2025 9:59:29 PM
+--------------------------------
+Product Name        Count        Price           Amount
+------------
+Mixed Set            1          125000         125000
+Brioche              1          65000           65000
+----------------------------------------------
+TOTAL AMOUNT:      190.000
+DISCOUNT:          0
+TOTAL:             190.000
+==============================================

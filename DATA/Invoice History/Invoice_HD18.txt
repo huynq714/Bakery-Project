@@ -1,0 +1,18 @@
+============ INVOICE ===========
+Invoice ID: HD18
+Customer Name: Trần Quỳnh
+Phone Number: 014789
+Current Points: 32
+Payment Method: Cash
+Order Time: 5/10/2025 4:56:46 PM
+--------------------------------
+Product Name        Count        Price           Amount
+------------
+Cheese Cake          1          45000           45000
+Lemon Tart           1          27000           27000
+Donut                1          25000           25000
+----------------------------------------------
+TOTAL AMOUNT:      97.000
+DISCOUNT:          0
+TOTAL:             97.000
+==============================================

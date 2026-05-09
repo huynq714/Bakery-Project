@@ -1,0 +1,16 @@
+=========== A+ BAKERY ===========
+Invoice ID: HD22
+Customer Name: Nguyễn Hoài
+Phone Number: 0123456
+Current Points: 0
+Payment Method: Gift
+Order Time: 5/16/2025 11:04:01 AM
+--------------------------------
+Product Name        Count        Price           Amount
+------------
+Cheese Cake          1          0                   0
+----------------------------------------------
+TOTAL AMOUNT:      0
+DISCOUNT:          0
+TOTAL:             0
+==============================================

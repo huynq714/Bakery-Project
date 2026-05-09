@@ -1,0 +1,17 @@
+============ INVOICE ===========
+Invoice ID: HD7
+Customer Name: Trần Quỳnh
+Phone Number: 014789
+Current Points: 7
+Payment Method: Cash
+Order Time: 4/16/2025 10:24:13 PM
+--------------------------------
+Product Name        Count        Price           Amount
+------------
+Croissant            1          30000           30000
+Cheese Cake          1          45000           45000
+----------------------------------------------
+TOTAL AMOUNT:      75.000
+DISCOUNT:          0
+TOTAL:             75.000
+==============================================

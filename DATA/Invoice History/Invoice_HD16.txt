@@ -1,0 +1,17 @@
+============ INVOICE ===========
+Invoice ID: HD16
+Customer Name: Trần Quỳnh
+Phone Number: 014789
+Current Points: 42
+Payment Method: Cash
+Order Time: 5/8/2025 3:06:52 PM
+--------------------------------
+Product Name        Count        Price           Amount
+------------
+Brioche              1          65000           65000
+Matcha Misu          1          45000           45000
+----------------------------------------------
+TOTAL AMOUNT:      110.000
+DISCOUNT:          0
+TOTAL:             110.000
+==============================================

@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{4236D3CB-8158-42E4-85C9-92F0EEABEA77}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Bakery</RootNamespace>
+    <AssemblyName>Bakery</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Bunifu.Licensing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=f89b4760ba7dcb6b, processorArchitecture=MSIL">
+      <HintPath>packages\Bunifu.Licensing.6.0.8\lib\net472\Bunifu.Licensing.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>packages\Bunifu.UI.WinForms.8.0.0\lib\net472\Bunifu.UI.WinForms.dll</HintPath>
+    </Reference>
+    <Reference Include="Guna.UI2, Version=2.0.4.7, Culture=neutral, PublicKeyToken=8b9d14aa5142e261, processorArchitecture=MSIL">
+      <HintPath>packages\Guna.UI2.WinForms.2.0.4.7\lib\net472\Guna.UI2.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=13.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>packages\Newtonsoft.Json.13.0.3\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.CodeDom, Version=9.0.0.2, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>packages\System.CodeDom.9.0.2\lib\net462\System.CodeDom.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ComponentModel.Composition" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.IO, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>packages\System.IO.4.3.0\lib\net462\System.IO.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Management" />
+    <Reference Include="System.Net.Http, Version=4.1.1.3, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>packages\System.Net.Http.4.3.4\lib\net46\System.Net.Http.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Runtime, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>packages\System.Runtime.4.3.0\lib\net462\System.Runtime.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Security.Cryptography.Algorithms, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>packages\System.Security.Cryptography.Algorithms.4.3.0\lib\net463\System.Security.Cryptography.Algorithms.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Security.Cryptography.Encoding, Version=4.0.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>packages\System.Security.Cryptography.Encoding.4.3.0\lib\net46\System.Security.Cryptography.Encoding.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Security.Cryptography.Primitives, Version=4.0.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>packages\System.Security.Cryptography.Primitives.4.3.0\lib\net46\System.Security.Cryptography.Primitives.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Security.Cryptography.X509Certificates, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>packages\System.Security.Cryptography.X509Certificates.4.3.0\lib\net461\System.Security.Cryptography.X509Certificates.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Web" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Components\Gift.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Components\Gift.Designer.cs">
+      <DependentUpon>Gift.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Components\Tiramisu.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Components\Tiramisu.Designer.cs">
+      <DependentUpon>Tiramisu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DashBoard\General.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="DashBoard\General.Designer.cs">
+      <DependentUpon>General.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmGift.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmGift.Designer.cs">
+      <DependentUpon>frmGift.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmInvoiceInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmInvoiceInfo.Designer.cs">
+      <DependentUpon>frmInvoiceInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmOverview.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmOverview.Designer.cs">
+      <DependentUpon>frmOverview.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DashBoard\TotalInvoice.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="DashBoard\TotalInvoice.Designer.cs">
+      <DependentUpon>TotalInvoice.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DashBoard\SoldProducts.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="DashBoard\SoldProducts.Designer.cs">
+      <DependentUpon>SoldProducts.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DTO\Admin.cs" />
+    <Compile Include="DTO\Customers.cs" />
+    <Compile Include="DTO\Employees.cs" />
+    <Compile Include="DTO\Invoices.cs" />
+    <Compile Include="DTO\Manage.cs" />
+    <Compile Include="DTO\People.cs" />
+    <Compile Include="DTO\Products.cs" />
+    <Compile Include="frmAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAdmin.Designer.cs">
+      <DependentUpon>frmAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCheckout.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCheckout.Designer.cs">
+      <DependentUpon>frmCheckout.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLogin.Designer.cs">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmManage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmManage.Designer.cs">
+      <DependentUpon>frmManage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmManager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmManager.Designer.cs">
+      <DependentUpon>frmManager.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmOrders.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmOrders.Designer.cs">
+      <DependentUpon>frmOrders.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Components\Gift.resx">
+      <DependentUpon>Gift.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Components\Tiramisu.resx">
+      <DependentUpon>Tiramisu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DashBoard\General.resx">
+      <DependentUpon>General.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DashBoard\TotalInvoice.resx">
+      <DependentUpon>TotalInvoice.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGift.resx">
+      <DependentUpon>frmGift.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmInvoiceInfo.resx">
+      <DependentUpon>frmInvoiceInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmOverview.resx">
+      <DependentUpon>frmOverview.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DashBoard\SoldProducts.resx">
+      <DependentUpon>SoldProducts.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAdmin.resx">
+      <DependentUpon>frmAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCheckout.resx">
+      <DependentUpon>frmCheckout.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLogin.resx">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmManage.resx">
+      <DependentUpon>frmManage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmManager.resx">
+      <DependentUpon>frmManager.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmOrders.resx">
+      <DependentUpon>frmOrders.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Menu\Mousse Chanh dây.webp" />
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Menu\Banana Cake.png" />
+    <Content Include="Menu\Beary Vanilla.png" />
+    <Content Include="Menu\Blue berry.jpg" />
+    <Content Include="Menu\Brioche.png" />
+    <Content Include="Menu\Cheesecake.jpg" />
+    <Content Include="Menu\Choco Mint.jpg" />
+    <Content Include="Menu\Cookies.jpg" />
+    <Content Include="Menu\Croissant.png" />
+    <Content Include="Menu\Donut.png" />
+    <Content Include="Menu\Eggtart.jpg" />
+    <Content Include="Menu\Lemontart.jpg" />
+    <Content Include="Menu\MatchaMisu.jpg" />
+    <Content Include="Menu\Mixed set.png" />
+    <Content Include="Menu\Mousse Chocolate.jpg" />
+    <Content Include="Menu\Mousse Dưa lưới.jpg" />
+    <Content Include="Menu\Mousse Nhãn.jpg" />
+    <Content Include="Menu\Mousse Xoài.jpg" />
+    <Content Include="Menu\Pannacotta.png" />
+    <Content Include="Menu\Tiramisu.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

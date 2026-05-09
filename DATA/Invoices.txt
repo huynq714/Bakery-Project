@@ -1,0 +1,25 @@
+HD1,Dung,094118706,3/18/2025 5:19:25,350000,D:\BAKERY\Bakery\bin\Debug\DATA\Invoice History\Invoice_1.txt
+HD2,Lan,094463269,3/9/2025 8:32:12,86000,D:\BAKERY\Bakery\bin\Debug\DATA\Invoice History\Invoice_2.txt
+HD3,Dũng,099006015,3/20/2025 8:32:02,365000,D:\BAKERY\Bakery\bin\Debug\DATA\Invoice History\Invoice_3.txt
+HD4,Hoài,0123456,2025/04/15 00:02:48,80000,D:\BAKERY\Bakery\bin\Debug\DATA\Invoice History\Invoice_4.txt
+HD5,Huy,0123,2025/04/15 00:03:11,98000,D:\BAKERY\Bakery\bin\Debug\DATA\Invoice History\Invoice_5.txt
+HD6,Trâm,07896,2025/04/16 22:16:38,182000,D:\BAKERY\Bakery\bin\Debug\DATA\Invoice History\Invoice_6.txt
+HD7,Quynh,014789,2025/04/16 22:24:13,75000,D:\BAKERY\Bakery\bin\Debug\DATA\Invoice History\Invoice_7.txt
+HD8,Quỳnh ,014789,2025/04/16 22:28:31,155000,D:\BAKERY\Bakery\bin\Debug\DATA\Invoice History\Invoice_8.txt
+HD9,Quỳnh,014789,2025/04/17 15:00:19,0,D:\BAKERY\Bakery\bin\Debug\DATA\Invoice History\Invoice_9.txt
+HD10,Quynh,014789,2025/04/17 15:00:50,115000,D:\BAKERY\Bakery\bin\Debug\DATA\Invoice History\Invoice_10.txt
+HD11,Đông,0705575549,2025/04/17 21:56:37,103000,D:\BAKERY\Bakery\bin\Debug\DATA\Invoice History\Invoice_11.txt
+HD12,An,0355245379,2025/04/17 21:57:09,120000,D:\BAKERY\Bakery\bin\Debug\DATA\Invoice History\Invoice_12.txt
+HD13,Dung,094118706,2025/04/17 21:58:35,0,D:\BAKERY\Bakery\bin\Debug\DATA\Invoice History\Invoice_13.txt
+HD14,Quỳnh,014789,2025/04/17 21:59:29,190000,D:\BAKERY\Bakery\bin\Debug\DATA\Invoice History\Invoice_14.txt
+HD15,Đông,0705575549,2025/04/17 22:00:20,54000,D:\BAKERY\Bakery\bin\Debug\DATA\Invoice History\Invoice_15.txt
+HD16,Quỳnh,014789,2025/05/08 15:06:52,110000,D:\BAKERY\Bakery\bin\Debug\DATA\Invoice History\Invoice_16.txt
+HD17,Quỳnh,014789,2025/05/08 15:08:30,0,D:\BAKERY\Bakery\bin\Debug\DATA\Invoice History\Invoice_17.txt
+HD18,Quỳnh,014789,2025/05/10 16:56:46,97000,D:\BAKERY\Bakery\bin\Debug\DATA\Invoice History\Invoice_18.txt
+HD19,Quỳnh,014789,2025/05/10 17:01:54,0,D:\BAKERY\Bakery\bin\Debug\DATA\Invoice History\Invoice_19.txt
+HD20,Hoài,0123456,2025/05/16 09:24:31,129000,D:\BAKERY\Bakery\bin\Debug\DATA\Invoice History\Invoice_20.txt
+HD21,Thảo,0123,2025/05/16 11:02:48,80000,D:\BAKERY\Bakery\bin\Debug\DATA\Invoice History\Invoice_21.txt
+HD22,Hoài,0123456,2025/05/16 11:04:01,0,D:\BAKERY\Bakery\bin\Debug\DATA\Invoice History\Invoice_22.txt
+HD23,An,0147,2025/05/30 16:58:55,87000,D:\BAKERY\Bakery\bin\Debug\DATA\Invoice History\Invoice_23.txt
+HD24,Quy,01258,2025/05/30 17:25:11,82000,D:\BAKERY\Bakery\bin\Debug\DATA\Invoice History\Invoice_HD24.txt
+HD25,Lê Thanh Thảo,0123,2025/06/07 20:22:46,72000,D:\BAKERY\Bakery\bin\Debug\DATA\Invoice History\Invoice_HD25.txt

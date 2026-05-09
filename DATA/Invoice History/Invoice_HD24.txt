@@ -1,0 +1,17 @@
+=========== A+ BAKERY ===========
+Invoice ID: HD24
+Customer Name: Ngọc Quy
+Phone Number: 01258
+Current Points: 8
+Payment Method: QR Code
+Order Time: 5/30/2025 5:25:11 PM
+--------------------------------
+Product Name        Count        Price           Amount
+------------
+Lemon Tart           1          27000           27000
+Tiramisu             1          55000           55000
+----------------------------------------------
+TOTAL AMOUNT:      82.000
+DISCOUNT:          0
+TOTAL:             82.000
+==============================================

@@ -1,0 +1,18 @@
+============ INVOICE ===========
+Invoice ID: HD2
+Customer Name: Hoàng Lan
+Phone Number: 094463269
+Current Points: 9
+Payment Method: Cash
+Order Time: 3/9/2025 8:32:12 AM
+--------------------------------
+Product Name        Count        Price           Amount
+------------
+Panna Cotta         1           32000          32000
+Lemon Tart          2           27000          54000
+----------------------------------------------
+TOTAL AMOUNT:      86.000
+DISCOUNT:          0
+TOTAL:             86.000
+==============================================
+

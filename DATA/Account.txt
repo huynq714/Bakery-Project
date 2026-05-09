@@ -1,0 +1,5 @@
+Bakery,1234,Employee
+Manager,1234,Manager
+Hoai,1234,Manager
+Quynh,4567,Employee
+Huy,1234,Employee

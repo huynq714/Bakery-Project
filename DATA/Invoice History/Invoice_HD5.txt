@@ -1,0 +1,17 @@
+============ INVOICE ===========
+Invoice ID: HD5
+Customer Name: Nguyễn Quang Huy
+Phone Number: 0355245367
+Current Points: 9
+Payment Method: Cash
+Order Time: 4/15/2025 12:03:11 AM
+--------------------------------
+Product Name        Count        Price           Amount
+------------
+Cookie               2          25000           50000
+Mango Mousse         1          48000           48000
+----------------------------------------------
+TOTAL AMOUNT:      98.000
+DISCOUNT:          0
+TOTAL:             98.000
+==============================================

@@ -1,0 +1,18 @@
+============ INVOICE ===========
+Invoice ID: HD6
+Customer Name: Lê Trâm
+Phone Number: 07896
+Current Points: 18
+Payment Method: QR Code
+Order Time: 4/16/2025 10:16:38 PM
+--------------------------------
+Product Name        Count        Price           Amount
+------------
+Cookie               2          25000           50000
+Mousse Choco         2          42000           84000
+Banana Cake          1          48000           48000
+----------------------------------------------
+TOTAL AMOUNT:      182.000
+DISCOUNT:          0
+TOTAL:             182.000
+==============================================
